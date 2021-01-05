@@ -40,11 +40,12 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 <body>
     <nav class="top-nav">
         <div class="top-nav-title">
-            <a href="/"><span>Call</span>Star</a>
+            <a href="/starconnectapp"><span>Star</span>Connect</a>
         </div>
         <div class="top-nav-links">
-            <a href="/callstarapp/categories/">Categories</a>
-            <a href="/callstarapp/celebrities/">Celebrities</a>
+            <a href="/starconnectapp/categories/">Categories</a>
+            <a href="/starconnectapp/celebrities/">Celebrities</a>
+            <a href="/starconnectapp/packs/">Packs</a>
             <!-- <a target="_blank" href="https://book.cakephp.org/4/">Documentation</a>
             <a target="_blank" href="https://api.cakephp.org/4/">API</a> -->
         </div>
